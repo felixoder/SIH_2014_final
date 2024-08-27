@@ -24,7 +24,7 @@ export default function NavbarButton(){
             <Button variant="outline" className="text-black" >
                    
                   <AlignVerticalJustifyEnd />
-                  Teacher's Mode
+                  Teacher&apos;s Mode
                      
                  </Button>
             </Link>
