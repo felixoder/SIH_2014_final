@@ -3,6 +3,9 @@
 
 This is the place where We will be updating the details of our SIH 2024 hackathon's project prototype.
 
+## System Design of the project
+
+https://github.com/felixoder/SIH_2014_final/blob/master/public/idea.png
 
 
 ## SetUp - for Contribution
