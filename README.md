@@ -5,18 +5,19 @@ This is the place where We will be updating the details of our SIH 2024 hackatho
 
 ## System Design of the project
 
-https://github.com/felixoder/SIH_2014_final/blob/master/public/idea.png
+
+![Project Image](https://github.com/felixoder/SIH_2024_final/blob/master/public/idea.png)
 
 
 ## SetUp - for Contribution
 
 Go through the details if you want to run the project locally.
 
-1. Fork the repository https://github.com/felixoder/SIH_2014_final.git and create a version on your github.
+1. Fork the repository https://github.com/felixoder/SIH_2024_final.git and create a version on your github.
 2. Clone your own repository like in my case 
 
 ```bash
-  git clone https://github.com/felixoder/SIH_2014_final.git
+  git clone https://github.com/felixoder/SIH_2024_final.git
   
 ```
 3. install 
