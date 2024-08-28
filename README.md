@@ -56,3 +56,7 @@ The main project is deployed on www.welearn.solutions
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Code of Conduct
+
+[CONDUCT](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
