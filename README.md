@@ -25,7 +25,21 @@ Go through the details if you want to run the project locally.
 ```bash
     pnpm/npm install  or  yarn add
 ```
-4. Add the dotenv [if there is]
+4. ## Add DOTenv
+   go to the root of the project and create a .env
+
+   ## Hint: Go to https://clerk.com and create an authencication method and add these in your dotenv
+
+```bash
+
+  NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=your_pk
+CLERK_SECRET_KEY=your_test
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+```
+
+
+
 5. Do the changes
 6. do 
 
